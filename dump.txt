@@ -1,0 +1,10 @@
+commit f93488579dc8d91f4fbed5a8a66ce969af4aabb7
+Author: Aina Colom <acolomvallcaneras6@gmail.com>
+Date:   Sun Oct 20 16:15:20 2024 +0200
+
+    Añadido archivo de entrega Prova 2 Python
+commit f93488579dc8d91f4fbed5a8a66ce969af4aabb7
+Author: Aina Colom <acolomvallcaneras6@gmail.com>
+Date:   Sun Oct 20 16:15:20 2024 +0200
+
+    Añadido archivo de entrega Prova 2 Python
